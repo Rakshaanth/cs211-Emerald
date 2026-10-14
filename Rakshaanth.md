@@ -1,0 +1,4 @@
+- **NetID:** rprem
+- **Major:** Computer Science
+- **Favorite CS Topic:** Recurssion
+- **Topic I Find Challenging / Want to Learn:** C++
